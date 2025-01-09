@@ -1,14 +1,6 @@
-## 👋 Hi, I’m Victoria | Data Scientist | Building Predictive Models for Business Solutions
+## 👋 Hi, I’m Victoria 
 
-
-
-## 💡 ABOUT ME:
-
-I am a Data Scientist with a solid background in Banking and Customer Experience. 
-
-Passionate about transforming data into actionable insights to drive impactful business decisions. 
-
-Experienced in building predictive models, Exploring Data, Creating stunning Visualizations and Computer Vision. 
+A Data Scientist with a solid background in Banking and Customer Experience, Passionate about transforming data into actionable insights to drive impactful business decisions. Experienced in building predictive models, Exploring Data, Creating stunning Visualizations and Computer Vision. 
 
 ## 🔧 Skills and Expertise
 
@@ -31,38 +23,17 @@ Building tools to uncover actionable insights and optimize decision-making.
 Driving community-focused initiatives through data storytelling and collaboration.
 
 ## 💻 TECH TOOLS
-![image](https://github.com/user-attachments/assets/ba378e86-e813-466d-865a-6da0e8174da1)
-![image](https://github.com/user-attachments/assets/ace3bdec-ba1b-4430-8d83-fed438c7b789)
-![image](https://github.com/user-attachments/assets/fec368f0-222a-4de4-b96d-dc3b10ec40f4)
-![image](https://github.com/user-attachments/assets/76932d71-0f23-4c22-8c34-7f68d84a3dd9)
-![image](https://github.com/user-attachments/assets/747adbf3-6f19-46ee-8847-d62041764e5c)
-![image](https://github.com/user-attachments/assets/32050ef5-e435-42db-9648-02ed4865ba3f)
-![image](https://github.com/user-attachments/assets/70647419-a53e-4800-a46d-b93983e9e79a)
-![image](https://github.com/user-attachments/assets/92651715-0e55-4e55-8064-ee1390b47a40)
 
+![image](https://github.com/user-attachments/assets/c4817a91-ee50-4141-9773-26efc5fb57af)
+![image](https://github.com/user-attachments/assets/ca9759d6-0560-4ad7-a6e5-8eccda408b2c)
+![image](https://github.com/user-attachments/assets/18c18cfe-52aa-43a0-8c4c-365d148b80bc)
+![image](https://github.com/user-attachments/assets/21f8512a-9c4d-4ff9-b2f4-f2efdb2f4f57)
+![image](https://github.com/user-attachments/assets/d47313e0-b18e-42fb-bc5e-48720183dcb0)
+![image](https://github.com/user-attachments/assets/327feaaf-d58f-4bee-ae6a-7239473322cd)
+![image](https://github.com/user-attachments/assets/7bd6eddb-8724-4004-8ad1-1cea744238b1)
+![image](https://github.com/user-attachments/assets/5fffdae3-cbb2-43eb-99ac-ccd7dd5ce0de)
 
+## 📫 How to Reach Me:
 
-📊 GitHub Stats:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-📫 How to Reach Me:
-
-Email: your_email@example.com
-LinkedIn: Your LinkedIn Profile
-🚀 Fun Fact: I love solving real-world problems and learning something new every day. When I’m not coding, you’ll find me exploring nature or reading about space!
-
-
+Email: victoria.ezeukwu@gmail.com
+LinkedIn: www.linkedin.com/in/ifeyinwavictorianwobodo
